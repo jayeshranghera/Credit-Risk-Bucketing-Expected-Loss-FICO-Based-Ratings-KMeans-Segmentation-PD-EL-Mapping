@@ -1,5 +1,9 @@
 # Credit Risk Bucketing & Expected Loss — FICO-Based Ratings, KMeans Segmentation, PD→EL Mapping
 
+This project is part of the **JPMorgan Chase & Co. Virtual Job Simulation (Forage Platform)**.  
+All code and analysis are written by me based on the tasks provided in the simulation.
+
+
 ## Overview
 Segments borrowers into risk buckets using FICO-based rules and KMeans clustering, visualizes distributions, and connects PD estimates to Expected Loss (EL = PD × LGD × EAD).
 
